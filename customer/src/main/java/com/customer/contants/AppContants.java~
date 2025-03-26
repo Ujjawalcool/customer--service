@@ -1,0 +1,4 @@
+package com.ayshriv.kafkaproducer.contants;
+
+public class AppContants {
+}
